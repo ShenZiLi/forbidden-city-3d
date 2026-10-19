@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourcePath": "/assets/environment/production-v3/kloofendal_48d_partly_cloudy_puresky/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+  "sourceSha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198",
+  "method": "Radiance luminance-weighted centroid of pixels >= 80% of peak; HDRLoader flipY and Three equirectUv convention.",
+  "resolution": [
+    2048,
+    1024
+  ],
+  "peakRadianceLuminance": 72843.344571875,
+  "selectedPixelCount": 4,
+  "sourceDirection": [
+    0.5549328404781203,
+    0.7415219506886199,
+    0.3770871771962405
+  ],
+  "sourceElevationDegrees": 47.86122429570154,
+  "note": "Aligns the brightest source cluster to the art directional light. Not a geographic solar-time or photometric exposure calibration; morning/evening still recolour one daylight sky."
+}

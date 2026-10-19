@@ -1,0 +1,40 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "name": "高画质",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "均衡",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "性能优先",
+      "resolution": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "高画质",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "均衡",
+      "resolution": [
+        2048,
+        2048
+      ]
+    }
+  ]
+}

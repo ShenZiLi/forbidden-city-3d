@@ -1,0 +1,69 @@
+{
+  "backend": "Tabbit browser-owned Playwright",
+  "date": "2026-10-19",
+  "diagnostic": {
+    "dpr": 1.25,
+    "frames": 3,
+    "gpu": "ANGLE (NVIDIA, NVIDIA GeForce RTX 5060 Ti (0x00002D04) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "position": [
+      20.000001907348633,
+      0.8950968980789185,
+      537
+    ],
+    "viewport": [
+      1179,
+      1007
+    ]
+  },
+  "errors": [],
+  "results": [
+    {
+      "name": "WebGL / physics / startup",
+      "passed": true
+    },
+    {
+      "name": "View switch buttons",
+      "passed": true
+    },
+    {
+      "name": "Minimap collapse and full map",
+      "passed": true
+    },
+    {
+      "name": "Building archive",
+      "passed": true
+    },
+    {
+      "name": "Quality, time, sensitivity, sound settings",
+      "passed": true
+    },
+    {
+      "name": "Architecture atlas",
+      "passed": true
+    },
+    {
+      "name": "Overview camera",
+      "passed": true
+    },
+    {
+      "name": "Ten teleport targets and streamed region return",
+      "passed": true
+    },
+    {
+      "name": "Refresh and pointer lock keyboard movement",
+      "passed": true
+    },
+    {
+      "name": "Blur resets held movement",
+      "passed": true
+    },
+    {
+      "name": "No uncaught runtime errors",
+      "passed": true
+    },
+    {
+      "name": "Region network failure and real retry",
+      "passed": true
+    }
+  ]
+}

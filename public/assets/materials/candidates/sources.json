@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Visual selection only; not loaded by runtime and not part of production-v3 manifest verification",
+  "provider": "Poly Haven",
+  "license": {
+    "name": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "providerLicenseUrl": "https://polyhaven.com/license",
+    "apiTermsUrl": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+    "checkedDate": "2026-10-20"
+  },
+  "combinedOriginalBudgetBytes": 36700160,
+  "budgetNote": "Explicit parent authorization: candidate originals plus existing production-v3 originals must remain <=35 MiB; candidate-only 5 MiB cap superseded for these two known files. This is an acquisition/storage budget, not runtime loading.",
+  "assets": [
+    {
+      "sourceAssetId": "slab_tiles",
+      "sourceUrl": "https://polyhaven.com/a/slab_tiles",
+      "infoApiUrl": "https://api.polyhaven.com/info/slab_tiles",
+      "filesApiUrl": "https://api.polyhaven.com/files/slab_tiles",
+      "authors": {
+        "Dario Barresi": "Processing",
+        "Dimitrios Savva": "Photography"
+      },
+      "sourceDimensionsMillimeters": [
+        2369.999885559082,
+        2370.000123977661
+      ],
+      "tileSizeMeters": [
+        2.369999885559082,
+        2.370000123977661
+      ],
+      "scaleAuthority": "Provider API dimensions in millimeters; not independently measured or a Forbidden City measurement",
+      "baseColor": {
+        "path": "/assets/materials/candidates/slab_tiles_diff_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/slab_tiles/slab_tiles_diff_2k.jpg",
+        "sourceBytes": 1982779,
+        "sourceMd5": "fe2442b3b43bfeb7f93579e4727e85ca",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "colorSpace": "srgb",
+        "derivative": false,
+        "status": "downloaded-and-verified",
+        "bytes": 1982779,
+        "sha256": "4d783b04cbe612f292871cd98514e9d13db1892cb0378e65aeefddff47524d1e",
+        "bitDepth": 8
+      }
+    },
+    {
+      "sourceAssetId": "stone_tiles_02",
+      "sourceUrl": "https://polyhaven.com/a/stone_tiles_02",
+      "infoApiUrl": "https://api.polyhaven.com/info/stone_tiles_02",
+      "filesApiUrl": "https://api.polyhaven.com/files/stone_tiles_02",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "sourceDimensionsMillimeters": [
+        2000,
+        2000
+      ],
+      "tileSizeMeters": [
+        2,
+        2
+      ],
+      "scaleAuthority": "Provider API dimensions in millimeters; not independently measured or a Forbidden City measurement",
+      "baseColor": {
+        "path": "/assets/materials/candidates/stone_tiles_02_diff_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_tiles_02/stone_tiles_02_diff_2k.jpg",
+        "sourceBytes": 3487320,
+        "sourceMd5": "2e724b32ab8dd4db86f829cda244e567",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "colorSpace": "srgb",
+        "derivative": false,
+        "status": "downloaded-and-verified",
+        "bytes": 3487320,
+        "sha256": "02e056f5f5fbcbd90212bd4c7b8c1e979a10685a3291b6b25b19eeeb84f7d410",
+        "bitDepth": 8
+      }
+    }
+  ],
+  "acquiredAt": "2026-10-19T16:48:35.162Z",
+  "failures": [],
+  "totals": {
+    "productionOriginalBytes": 30469518,
+    "candidateOriginalBytes": 5470099,
+    "combinedOriginalBytes": 35939617
+  }
+}

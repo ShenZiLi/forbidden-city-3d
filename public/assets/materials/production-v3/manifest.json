@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "productionVersion": "production-v3",
+  "acquiredAt": "2026-10-19T16:35:51.365Z",
+  "provider": "Poly Haven",
+  "userAgent": "ForbiddenCity3DArtProduction/0.2",
+  "license": {
+    "name": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "providerLicenseUrl": "https://polyhaven.com/license",
+    "apiTermsUrl": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+    "checkedDate": "2026-10-20",
+    "note": "CC0 assets may be redistributed. Website previews and copy are separate. API requests identify this project; production uses self-hosted files, not a live API browser."
+  },
+  "budgetBytes": 35000000,
+  "downloadedBytesThisRun": 30469518,
+  "failures": [],
+  "materials": {
+    "courtyardStone": {
+      "sourceAssetId": "pavement_01",
+      "name": "Pavement 01",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "sourceUrl": "https://polyhaven.com/a/pavement_01",
+      "infoApiUrl": "https://api.polyhaven.com/info/pavement_01",
+      "filesApiUrl": "https://api.polyhaven.com/files/pavement_01",
+      "sourceFilesHash": "3ea9fc2ab5ba88ce7627dabe1cf8c9ba07a23f81",
+      "license": {
+        "name": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "providerLicenseUrl": "https://polyhaven.com/license",
+        "apiTermsUrl": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+        "checkedDate": "2026-10-20",
+        "note": "CC0 assets may be redistributed. Website previews and copy are separate. API requests identify this project; production uses self-hosted files, not a live API browser."
+      },
+      "sourceDescription": "Free 8K texture of worn square stone tiles in a roughhewn grid, uneven chisel-marked blocks with deep grout lines and weathered gray-brown stone.",
+      "sourceDimensionsMillimeters": [
+        1500,
+        1500
+      ],
+      "sourceLegacyScale": "1.5M x 1.5M",
+      "tileSizeMeters": [
+        1.5,
+        1.5
+      ],
+      "scaleAuthority": "Provider API dimensions in millimeters; not independently measured and not a Forbidden City measurement.",
+      "scaleConflict": null,
+      "captureMethod": "Provider photo-based PBR material. Exact per-asset acquisition/baking workflow not supplied by API; not an AI-derived normal map.",
+      "whiteBalanceKelvin": null,
+      "sourceSunElevationDegrees": null,
+      "sunElevationAuthority": null,
+      "metallic": 0,
+      "useNote": "Gray-brown square roughhewn paving. Physical surface reference and art reconstruction, not Forbidden City sampling or a historically verified paving layout.",
+      "channels": {
+        "baseColor": {
+          "path": "/assets/materials/production-v3/pavement_01/pavement_01_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_01/pavement_01_diff_2k.jpg",
+          "sourceBytes": 1782516,
+          "sourceMd5": "3a298e8c8a82f19bd75b9e12e1a6f7ff",
+          "sourceChannel": "Diffuse",
+          "format": "jpg",
+          "resolutionLabel": "2k",
+          "expectedResolution": [
+            2048,
+            2048
+          ],
+          "colorSpace": "srgb",
+          "component": "RGB",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "bitDepth": 8,
+          "bytes": 1782516,
+          "sha256": "af8c79f49ca34a0996c0a5581eb721ee1622404bde2a6214f48c900ac71c25dc",
+          "status": "downloaded-and-verified"
+        },
+        "normal": {
+          "path": "/assets/materials/production-v3/pavement_01/pavement_01_nor_gl_1k.png",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/pavement_01/pavement_01_nor_gl_1k.png",
+          "sourceBytes": 5600165,
+          "sourceMd5": "7e51930072cebc2c2ed83c889105e69c",
+          "sourceChannel": "nor_gl",
+          "format": "png",
+          "resolutionLabel": "1k",
+          "expectedResolution": [
+            1024,
+            1024
+          ],
+          "colorSpace": "linear-data",
+          "component": "RGB",
+          "normalConvention": "OpenGL tangent-space +Y",
+          "derivative": false,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "bitDepth": 16,
+          "pngColorType": 6,
+          "bytes": 5600165,
+          "sha256": "05e4d5b0af81eaafaea99719d86603a7bdadf072f2f82b6c56865dfff0cb853b",
+          "status": "downloaded-and-verified"
+        },
+        "roughness": {
+          "path": "/assets/materials/production-v3/pavement_01/pavement_01_rough_1k.png",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/pavement_01/pavement_01_rough_1k.png",
+          "sourceBytes": 2242471,
+          "sourceMd5": "128a8392915cf8e2d6eb2591ff211067",
+          "sourceChannel": "Rough",
+          "format": "png",
+          "resolutionLabel": "1k",
+          "expectedResolution": [
+            1024,
+            1024
+          ],
+          "colorSpace": "linear-data",
+          "component": "G (grayscale RGB)",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "bitDepth": 16,
+          "pngColorType": 4,
+          "bytes": 2242471,
+          "sha256": "36695bcf0dd2dd27e31758f2efc9e2d508cd934abec87a49bb5131135783b859",
+          "status": "downloaded-and-verified"
+        },
+        "ao": {
+          "path": "/assets/materials/production-v3/pavement_01/pavement_01_ao_1k.png",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/pavement_01/pavement_01_ao_1k.png",
+          "sourceBytes": 2194101,
+          "sourceMd5": "d816b3c43c78a7a84962b7f003966b93",
+          "sourceChannel": "AO",
+          "format": "png",
+          "resolutionLabel": "1k",
+          "expectedResolution": [
+            1024,
+            1024
+          ],
+          "colorSpace": "linear-data",
+          "component": "R (grayscale RGB)",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "bitDepth": 16,
+          "pngColorType": 4,
+          "bytes": 2194101,
+          "sha256": "b3978a3a97d203a62f83ddf942bd8125e102b42bf67278e9ccdac076115736bd",
+          "status": "downloaded-and-verified"
+        }
+      }
+    },
+    "mineralPlaster": {
+      "sourceAssetId": "white_plaster_02",
+      "name": "White Plaster 02",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "sourceUrl": "https://polyhaven.com/a/white_plaster_02",
+      "infoApiUrl": "https://api.polyhaven.com/info/white_plaster_02",
+      "filesApiUrl": "https://api.polyhaven.com/files/white_plaster_02",
+      "sourceFilesHash": "508068441dd24eb06ef6d269a43f6ea7c8bade6b",
+      "license": {
+        "name": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "providerLicenseUrl": "https://polyhaven.com/license",
+        "apiTermsUrl": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+        "checkedDate": "2026-10-20",
+        "note": "CC0 assets may be redistributed. Website previews and copy are separate. API requests identify this project; production uses self-hosted files, not a live API browser."
+      },
+      "sourceDescription": "Free 8K plaster texture: smooth, flat white plaster with a soft matte finish, fine micro-roughness and subtle dirt speckling across the surface.",
+      "sourceDimensionsMillimeters": [
+        1000,
+        1000
+      ],
+      "sourceLegacyScale": "1.5M x 1.5M",
+      "tileSizeMeters": [
+        1,
+        1
+      ],
+      "scaleAuthority": "Provider API dimensions in millimeters; not independently measured and not a Forbidden City measurement.",
+      "scaleConflict": "Current API dimensions are 1000×1000 mm; legacy scale string says 1.5M x 1.5M. Current dimensions used provisionally; discrepancy unresolved.",
+      "captureMethod": "Provider photo-based PBR material. Exact per-asset acquisition/baking workflow not supplied by API; not an AI-derived normal map.",
+      "whiteBalanceKelvin": null,
+      "sourceSunElevationDegrees": null,
+      "sunElevationAuthority": null,
+      "metallic": 0,
+      "useNote": "Fine-grained white plaster, intended for runtime mineral-red tint. Physical surface reference, not Forbidden City sampling. Pigment and binder chemistry are not verified.",
+      "channels": {
+        "baseColor": {
+          "path": "/assets/materials/production-v3/white_plaster_02/white_plaster_02_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_plaster_02/white_plaster_02_diff_2k.jpg",
+          "sourceBytes": 2568315,
+          "sourceMd5": "35f9c96c16aa0d934da7884b232f6d07",
+          "sourceChannel": "Diffuse",
+          "format": "jpg",
+          "resolutionLabel": "2k",
+          "expectedResolution": [
+            2048,
+            2048
+          ],
+          "colorSpace": "srgb",
+          "component": "RGB",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "bitDepth": 8,
+          "bytes": 2568315,
+          "sha256": "0ca5245ba70777d3e41ff4566c9f8d363855461891802c55cb7dc0f6f85f084e",
+          "status": "downloaded-and-verified"
+        },
+        "normal": {
+          "path": "/assets/materials/production-v3/white_plaster_02/white_plaster_02_nor_gl_1k.png",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/white_plaster_02/white_plaster_02_nor_gl_1k.png",
+          "sourceBytes": 6075625,
+          "sourceMd5": "576d036eb85d0887c7613f8d3f5e13df",
+          "sourceChannel": "nor_gl",
+          "format": "png",
+          "resolutionLabel": "1k",
+          "expectedResolution": [
+            1024,
+            1024
+          ],
+          "colorSpace": "linear-data",
+          "component": "RGB",
+          "normalConvention": "OpenGL tangent-space +Y",
+          "derivative": false,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "bitDepth": 16,
+          "pngColorType": 6,
+          "bytes": 6075625,
+          "sha256": "36ac2eec35a5678eda0c1ccfd81f6ab8a2e2fed0ca3e77d6e1d44e372e130450",
+          "status": "downloaded-and-verified"
+        },
+        "roughness": {
+          "path": "/assets/materials/production-v3/white_plaster_02/white_plaster_02_rough_1k.png",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/white_plaster_02/white_plaster_02_rough_1k.png",
+          "sourceBytes": 2185125,
+          "sourceMd5": "1569e94584ed319ac49e57c23a86c59b",
+          "sourceChannel": "Rough",
+          "format": "png",
+          "resolutionLabel": "1k",
+          "expectedResolution": [
+            1024,
+            1024
+          ],
+          "colorSpace": "linear-data",
+          "component": "G (grayscale RGB)",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "bitDepth": 16,
+          "pngColorType": 4,
+          "bytes": 2185125,
+          "sha256": "972b33f86442d3d4546f70c9e535d187f2b28d3f27788226563fe0aef671e707",
+          "status": "downloaded-and-verified"
+        },
+        "ao": {
+          "path": "/assets/materials/production-v3/white_plaster_02/white_plaster_02_ao_1k.png",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/white_plaster_02/white_plaster_02_ao_1k.png",
+          "sourceBytes": 2369707,
+          "sourceMd5": "fb0f2d011dc6ce3f9349a85bb4a09098",
+          "sourceChannel": "AO",
+          "format": "png",
+          "resolutionLabel": "1k",
+          "expectedResolution": [
+            1024,
+            1024
+          ],
+          "colorSpace": "linear-data",
+          "component": "R (grayscale RGB)",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "bitDepth": 16,
+          "pngColorType": 4,
+          "bytes": 2369707,
+          "sha256": "6f84e468cfcdc7e831a2d1552bae2f88972529b1126f27023bda6469ec0c1340",
+          "status": "downloaded-and-verified"
+        }
+      }
+    }
+  }
+}

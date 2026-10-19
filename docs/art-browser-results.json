@@ -1,0 +1,355 @@
+{
+  "backend": "Tabbit browser-owned Playwright",
+  "date": "2026-10-19T16:46:13.516Z",
+  "errors": [
+    "Attempted to synchronously unmount a root while React was already rendering. React cannot finish unmounting the root until the current render has completed, which may lead to a race condition.",
+    "Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node."
+  ],
+  "results": [
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 823,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6541265,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-front-eye",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 753,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6494721,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-front-mid",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 691,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6523133,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-45",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 647,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6527957,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-east",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 593,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6504509,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-west",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 677,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6551109,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-rear",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 487,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6396921,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-eaves",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 699,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6486633,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-column-base",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 723,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6472017,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-door",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 729,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6473577,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-tile-edge",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 655,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6503545,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-terrace",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 911,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 0,
+        "triangles": 6630057,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-distant",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 899,
+        "frames": 3,
+        "geometryCount": 0,
+        "position": [
+          20.000001907348633,
+          0.8950968980789185,
+          537
+        ],
+        "textureCount": 0,
+        "triangles": 4937569,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "entrance-panorama",
+      "passed": true
+    },
+    {
+      "name": "six-sample material lab",
+      "passed": true
+    }
+  ],
+  "scope": "13 fixed cameras and material lab; no visual or FPS acceptance",
+  "screenshots": [
+    {
+      "id": "taihe-front-eye",
+      "path": "docs/screenshots/art-v3/taihe-front-eye.png"
+    },
+    {
+      "id": "taihe-front-mid",
+      "path": "docs/screenshots/art-v3/taihe-front-mid.png"
+    },
+    {
+      "id": "taihe-45",
+      "path": "docs/screenshots/art-v3/taihe-45.png"
+    },
+    {
+      "id": "taihe-east",
+      "path": "docs/screenshots/art-v3/taihe-east.png"
+    },
+    {
+      "id": "taihe-west",
+      "path": "docs/screenshots/art-v3/taihe-west.png"
+    },
+    {
+      "id": "taihe-rear",
+      "path": "docs/screenshots/art-v3/taihe-rear.png"
+    },
+    {
+      "id": "taihe-eaves",
+      "path": "docs/screenshots/art-v3/taihe-eaves.png"
+    },
+    {
+      "id": "taihe-column-base",
+      "path": "docs/screenshots/art-v3/taihe-column-base.png"
+    },
+    {
+      "id": "taihe-door",
+      "path": "docs/screenshots/art-v3/taihe-door.png"
+    },
+    {
+      "id": "taihe-tile-edge",
+      "path": "docs/screenshots/art-v3/taihe-tile-edge.png"
+    },
+    {
+      "id": "taihe-terrace",
+      "path": "docs/screenshots/art-v3/taihe-terrace.png"
+    },
+    {
+      "id": "taihe-distant",
+      "path": "docs/screenshots/art-v3/taihe-distant.png"
+    },
+    {
+      "id": "entrance-panorama",
+      "path": "docs/screenshots/art-v3/entrance-panorama.png"
+    }
+  ]
+}

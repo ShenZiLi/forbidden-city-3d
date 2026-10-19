@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "productionVersion": "production-v3",
+  "acquiredAt": "2026-10-19T16:35:51.365Z",
+  "provider": "Poly Haven",
+  "userAgent": "ForbiddenCity3DArtProduction/0.2",
+  "license": {
+    "name": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "providerLicenseUrl": "https://polyhaven.com/license",
+    "apiTermsUrl": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+    "checkedDate": "2026-10-20",
+    "note": "CC0 assets may be redistributed. Website previews and copy are separate. API requests identify this project; production uses self-hosted files, not a live API browser."
+  },
+  "budgetBytes": 35000000,
+  "downloadedBytesThisRun": 30469518,
+  "failures": [],
+  "environments": {
+    "daylight": {
+      "sourceAssetId": "kloofendal_48d_partly_cloudy_puresky",
+      "name": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+      "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+      },
+      "sourceUrl": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+      "infoApiUrl": "https://api.polyhaven.com/info/kloofendal_48d_partly_cloudy_puresky",
+      "filesApiUrl": "https://api.polyhaven.com/files/kloofendal_48d_partly_cloudy_puresky",
+      "sourceFilesHash": "4cce3bc9b9588036541551fe5ae8077af6b37e45",
+      "license": {
+        "name": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "providerLicenseUrl": "https://polyhaven.com/license",
+        "apiTermsUrl": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+        "checkedDate": "2026-10-20",
+        "note": "CC0 assets may be redistributed. Website previews and copy are separate. API requests identify this project; production uses self-hosted files, not a live API browser."
+      },
+      "sourceDescription": "Free 16K unclipped HDRI - midday partly-cloudy pure sky with bright sun, high-contrast natural light and crisp clouds for realistic outdoor lighting.",
+      "sourceDimensionsMillimeters": null,
+      "sourceLegacyScale": null,
+      "tileSizeMeters": null,
+      "scaleAuthority": "Not provided; do not infer physical dimensions.",
+      "scaleConflict": null,
+      "captureMethod": "Photographed HDRI with provider sky-only edits.",
+      "whiteBalanceKelvin": 5400,
+      "sourceSunElevationDegrees": 48,
+      "sunElevationAuthority": "48d in provider asset name; angular direction/azimuth not calibrated in this project.",
+      "useNote": "Edited sky-only midday HDRI. No buildings or trees in the source sky. Neutral daylight source; sun rotation/intensity must be calibrated against the runtime directional light.",
+      "channels": {
+        "environment": {
+          "path": "/assets/environment/production-v3/kloofendal_48d_partly_cloudy_puresky/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+          "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+          "sourceBytes": 5451493,
+          "sourceMd5": "2eba3a4d7eeb23cbfbeca364c97e7980",
+          "sourceChannel": "hdri",
+          "format": "hdr",
+          "resolutionLabel": "2k",
+          "expectedResolution": [
+            2048,
+            1024
+          ],
+          "colorSpace": "scene-linear",
+          "component": "RGB radiance",
+          "normalConvention": null,
+          "derivative": false,
+          "resolution": [
+            2048,
+            1024
+          ],
+          "encoding": "Radiance RGBE, scene-linear radiance",
+          "bytes": 5451493,
+          "sha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198",
+          "status": "downloaded-and-verified"
+        }
+      }
+    }
+  }
+}

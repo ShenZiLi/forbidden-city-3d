@@ -1,0 +1,4 @@
+import { useRegions } from '../streaming/RegionStreamer';
+import { useGame } from '../app/GameContext';
+import { useProgress } from '@react-three/drei';
+export function LoadingScreen(){const {ready}=useGame();const {states,retry}=useRegions();const progress=useProgress();const loaded=states.filter(s=>s.status==='ready').length;const errors=states.filter(s=>s.status==='error');return <div className="loading-screen" role="status"><div className="seal">紫禁</div><p className="eyebrow">FORBIDDEN CITY · DIGITAL WORLD</p><h1>正在叩启宫门</h1><p>{progress.active?'正在载入宫墙、琉璃瓦与彩绘材质':!ready?'初始化三维引擎与物理世界':'准备入口建筑构件'}</p><progress value={progress.loaded+loaded} max={Math.max(1,progress.total+states.filter(s=>s.status!=='idle').length)}/><small>材质 {progress.loaded}/{progress.total} · 已加载 {loaded} 个分区</small>{errors.length>0&&<><p>分区加载失败：{errors.map(s=>s.id).join('、')}</p><button onClick={retry}>重新加载</button></>}</div>;}

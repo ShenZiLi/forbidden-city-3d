@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-19",
+  "environment": {
+    "dpr": 1.25,
+    "gpu": "ANGLE (NVIDIA, NVIDIA GeForce RTX 5060 Ti (0x00002D04) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "startupMs": 855.0999999996275,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+    "viewport": [
+      1203,
+      1022
+    ]
+  },
+  "measurements": [
+    {
+      "averageFPS": 29.998500074994855,
+      "drawCalls": 277,
+      "frameMs": {
+        "max": 50.5,
+        "p50": 33.40000000037253,
+        "p95": 46.799999999813735,
+        "p99": 49.60000000055879
+      },
+      "frames": 120,
+      "geometries": 99,
+      "heapBytes": 201374616,
+      "id": "wumen",
+      "position": [
+        20.000001907348633,
+        0.8950968384742737,
+        537
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 408458
+    },
+    {
+      "averageFPS": 30.098572826009388,
+      "drawCalls": 198,
+      "frameMs": {
+        "max": 65.20000000018626,
+        "p50": 33.299999999813735,
+        "p95": 43.299999999813735,
+        "p99": 48.200000000186265
+      },
+      "frames": 120,
+      "geometries": 107,
+      "heapBytes": 289413367,
+      "id": "taihedian",
+      "position": [
+        5.460033893585205,
+        0.8950999975204468,
+        140.4134521484375
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 406138
+    },
+    {
+      "averageFPS": 29.988004798083562,
+      "drawCalls": 224,
+      "frameMs": {
+        "max": 49.5,
+        "p50": 33.39999999944121,
+        "p95": 44.59999999962747,
+        "p99": 47.40000000037253
+      },
+      "frames": 120,
+      "geometries": 316,
+      "heapBytes": 196081715,
+      "id": "qianqinggong",
+      "position": [
+        -17.16335678100586,
+        0.8950978517532349,
+        -185.1823272705078
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 420780
+    },
+    {
+      "averageFPS": 29.972275645026954,
+      "drawCalls": 153,
+      "frameMs": {
+        "max": 59.299999999813735,
+        "p50": 33.39999999944121,
+        "p95": 41,
+        "p99": 57
+      },
+      "frames": 120,
+      "geometries": 383,
+      "heapBytes": 159003746,
+      "id": "qinandian",
+      "position": [
+        -12.828302383422852,
+        0.8950977921485901,
+        -389.6892395019531
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 396596
+    },
+    {
+      "averageFPS": 29.999250018752324,
+      "drawCalls": 167,
+      "frameMs": {
+        "max": 38.299999999813735,
+        "p50": 33.30000000074506,
+        "p95": 34.90000000037253,
+        "p99": 37.89999999944121
+      },
+      "frames": 120,
+      "geometries": 78,
+      "heapBytes": 284572829,
+      "id": "taihedian",
+      "position": [
+        5.460033893585205,
+        0.8950999975204468,
+        140.4134521484375
+      ],
+      "quality": "performance",
+      "textures": 7,
+      "triangles": 389634
+    },
+    {
+      "averageFPS": 30.001500075005147,
+      "drawCalls": 277,
+      "frameMs": {
+        "max": 40.30000000074506,
+        "p50": 33.30000000074506,
+        "p95": 34.200000000186265,
+        "p99": 38.700000000186265
+      },
+      "frames": 120,
+      "geometries": 95,
+      "heapBytes": 143134330,
+      "id": "wumen",
+      "position": [
+        20.000001907348633,
+        0.8950968384742737,
+        537
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 408458
+    },
+    {
+      "averageFPS": 30.125775111090206,
+      "drawCalls": 153,
+      "frameMs": {
+        "max": 56,
+        "p50": 33.299999999813735,
+        "p95": 48.799999999813735,
+        "p99": 53.09999999962747
+      },
+      "frames": 120,
+      "geometries": 392,
+      "heapBytes": 254887790,
+      "id": "qinandian",
+      "position": [
+        -12.828302383422852,
+        0.8950977921485901,
+        -389.6892395019531
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 396596
+    },
+    {
+      "averageFPS": 29.999250018752324,
+      "drawCalls": 277,
+      "frameMs": {
+        "max": 49,
+        "p50": 33.30000000074506,
+        "p95": 47.10000000055879,
+        "p99": 49
+      },
+      "frames": 120,
+      "geometries": 95,
+      "heapBytes": 208245052,
+      "id": "wumen",
+      "position": [
+        20.000001907348633,
+        0.8950968384742737,
+        537
+      ],
+      "quality": "balanced",
+      "textures": 7,
+      "triangles": 408458
+    }
+  ],
+  "notes": [
+    "Short stationary samples in a connected desktop browser; browser visibility may cap RAF.",
+    "Warm local development reload. JS heap excludes GPU memory. No sustained-hour leak conclusion."
+  ]
+}

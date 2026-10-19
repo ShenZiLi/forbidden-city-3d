@@ -1,0 +1,299 @@
+{
+  "backend": "Tabbit browser-owned Playwright",
+  "date": "2026-10-19T16:56:52.678Z",
+  "errors": [],
+  "results": [
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 683,
+        "frames": 3,
+        "geometryCount": 119,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5435757,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-front-eye",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 613,
+        "frames": 3,
+        "geometryCount": 112,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5389213,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-front-mid",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 551,
+        "frames": 3,
+        "geometryCount": 105,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5417625,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-45",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 507,
+        "frames": 3,
+        "geometryCount": 93,
+        "position": [
+          5.460033893585205,
+          0.895099937915802,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5422449,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-east",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 453,
+        "frames": 3,
+        "geometryCount": 90,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5399001,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-west",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 537,
+        "frames": 3,
+        "geometryCount": 113,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5445601,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-rear",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 347,
+        "frames": 3,
+        "geometryCount": 86,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5291413,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-eaves",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 559,
+        "frames": 3,
+        "geometryCount": 107,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5381125,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-column-base",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 583,
+        "frames": 3,
+        "geometryCount": 109,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5366509,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-door",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 589,
+        "frames": 3,
+        "geometryCount": 112,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5368069,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-tile-edge",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 515,
+        "frames": 3,
+        "geometryCount": 103,
+        "position": [
+          5.460033893585205,
+          0.8951000571250916,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5398037,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-terrace",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 771,
+        "frames": 3,
+        "geometryCount": 128,
+        "position": [
+          5.460033893585205,
+          0.895099937915802,
+          140.4134521484375
+        ],
+        "textureCount": 31,
+        "triangles": 5524549,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "taihe-distant",
+      "passed": true
+    },
+    {
+      "diagnostic": {
+        "dpr": 1.25,
+        "drawCalls": 838,
+        "frames": 3,
+        "geometryCount": 118,
+        "position": [
+          20.000001907348633,
+          0.8950968980789185,
+          537
+        ],
+        "textureCount": 31,
+        "triangles": 3853617,
+        "viewport": [
+          1179,
+          1007
+        ],
+        "visibility": "visible"
+      },
+      "name": "entrance-panorama",
+      "passed": true
+    },
+    {
+      "name": "six-sample material lab",
+      "passed": true
+    }
+  ],
+  "scope": "13 fixed cameras and material lab; no visual or FPS acceptance",
+  "screenshots": []
+}

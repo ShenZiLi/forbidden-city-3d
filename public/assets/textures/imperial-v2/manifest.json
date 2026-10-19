@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "generated": "2026-10-19",
+  "method": "OpenAI built-in image_gen, six independent generations",
+  "notice": "AI authored appearance textures, not measured photography or evidence of original historical paint. Requested resolution is a prompt preference; actual image sizes are inspected below.",
+  "assets": [
+    {
+      "id": "roof",
+      "file": "glazed-tiles.png",
+      "prompt": "Use case: historical-scene. Asset type: seamless base-color texture for physically based materials in a real-time 3D reconstruction of Beijing's Forbidden City. Generate ONE square 2048x2048 image, a high-resolution orthographic scan of aged imperial golden-ochre glazed Chinese roof tiles. Perfectly straight, parallel vertical rows of narrow traditional semicylindrical cap tiles alternating with pan tiles, small precise horizontal segment joints, about 12 channels across and 12 courses tall. Authentic muted amber, honey ochre, subtle warm brown glaze variation, microscopic ceramic crazing, tiny dust deposits in grooves, restrained age. Uniform broad diffuse studio illumination, no directional light, no cast shadows, no specular hotspots, no perspective or roof silhouette. Fill every pixel with tile surface. Seamless repeat on all four edges, consistent scale, no borders, labels, text, vegetation or architecture in background. NOT bright metallic gold, not corrugated sheet metal, not an illustration. Photographic texture scan quality.",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2793598
+    },
+    {
+      "id": "plaster",
+      "file": "vermilion-plaster.png",
+      "prompt": "Use case: historical-scene. Asset type: seamless diffuse/base-color material texture for red palace walls in a Three.js Forbidden City world. ONE square 2048x2048 image. Extremely realistic close orthographic photograph of weathered Chinese imperial vermilion mineral plaster over masonry. Desaturated earthy iron-oxide red, subtle warm russet tonal variation, fine porous stucco grain, delicate scattered hairline cracks, traces of chalky faded plaster and restrained darker patina. Mostly maintained intact plaster, no large peeling holes, exposed bricks, moss, graffiti, stains with recognizable shapes or dramatic damage. Soft neutral shadowless illumination, no vignette, no lighting gradient, no cast shadows, no perspective. Surface fills image edge to edge, repeatable seamless edges on all sides. No text or frame. Rich authentic mineral material, not flat paint, not saturated orange.",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3838707
+    },
+    {
+      "id": "paving",
+      "file": "courtyard-paving.png",
+      "prompt": "Use case: historical-scene. Asset type: seamlessly repeatable PBR base-color ground texture for a Forbidden City courtyard. ONE square 2048x2048 image, strictly orthographic top-down material scan, no perspective. A 4 by 4 grid of large rectangular historic grey-beige limestone paving slabs, subtly staggered joints, thin dark mortar lines, fine stone grain, natural mineral speckles, softly rounded worn edges, light dust and restrained historic wear. Muted neutral warm grey, taupe, very subtle blue-grey variations between slabs, low color contrast, avoid obvious repeating stains. Slab sizes remain consistent. Equal diffuse illumination across every pixel, no directional shadows, highlights, vignette, plants or objects. All four edges match seamlessly. No text, borders, watermark or diagram. Photographic archaeological architectural visualization material quality.",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3926869
+    },
+    {
+      "id": "wood",
+      "file": "lacquered-timber.png",
+      "prompt": "Use case: historical-scene. Asset type: seamless albedo photograph for physically based red lacquered timber columns, door frames and panels in a Forbidden City 3D environment. ONE square high resolution image. Perfectly orthographic flat front-on scan of deep warm oxblood red Chinese traditional lacquer over very fine vertical wood grain. Refined maintained historic surface, minute fine craquelure, subtle satin variations, tiny rubbed edges absent from this flat sample, restrained aging. Dark iron-oxide vermilion rather than purple, orange or plastic red. Uniform diffuse shadowless illumination. Do not add boards or seams, knots, handles, figures, characters, illustrations, ornaments, objects, gradients or strong shadows. Fill all pixels with material. Truly seamless tile matching all four edges, vertical grain. Photoreal architectural material, rich and tactile.",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3012717
+    },
+    {
+      "id": "marble",
+      "file": "hanbaiyu.png",
+      "prompt": "Use case: historical-scene. Asset type: seamlessly tiled architectural base-color material for carved white stone terraces and balustrades in a Forbidden City 3D environment. ONE square high resolution image. Orthographic close-up flat material scan of fine-grained Chinese white marble, hanbaiyu, aged outdoors but maintained. Warm ivory white, tiny pale grey mineral flecks, very subtle milky crystalline texture, delicate shallow erosion and restrained dust in grain. Mostly even light ivory tone. No dramatic black veins, no gold veins, no cracks as dominant features, no slabs, no mortar joints, no sculpture, no edges, no lettering or objects. Broad neutral diffuse illumination, no directional light, highlights or baked shadows, no vignette or perspective. Surface extends to all image edges and matches seamlessly. Photoreal material scan.",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2715534
+    },
+    {
+      "id": "beam",
+      "file": "painted-beam.png",
+      "prompt": "Use case: historical-scene. Asset type: horizontal decorative base-color texture to apply on actual wooden beams of a Chinese imperial palace in a real-time 3D world. ONE wide 3:1 rectangular image, orthographic flat frontal detail scan filling every pixel with a continuous repeating Qing imperial polychrome beam painting pattern inspired by traditional hexicaihua; clearly an artistic reconstruction, no literal historical documentation claim. Aged deep teal, indigo, muted malachite green and fine antique gold lines, symmetrical continuous geometric scroll medallions, stylized small golden cloud and dragon-like line motifs. Top and bottom narrow gold outlined bands, exquisite tiny hand-painted ornamental detail. Quiet dark jewel colors, low contrast luminous gold ink, subtly weathered wooden pigment ground. Continuous horizontal repeat with matching left and right edges. No wall, no roof, no landscape, no people, no perspective, no shadow, no frame around image, no labels, no text or Chinese characters, no watermark. Texture only, not a palace photograph.",
+      "width": 2172,
+      "height": 724,
+      "bytes": 3641870
+    }
+  ]
+}
